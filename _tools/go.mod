@@ -1,4 +1,4 @@
-module tools
+https://developer.github.com/actions/module tools
 
 go 1.21
 
